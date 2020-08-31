@@ -135,7 +135,7 @@ default_args = {
 
 with DAG(dag_id='crawl_ptt', default_args=default_args) as dag:
 
-    # Add Operator
+    # Add Operators
     start = BashOperator(
     task_id='start',
     bash_command=start_command,
