@@ -34,3 +34,5 @@ CREATE TABLE KEYWORD(
 nohup airflow scheduler &
 airflow webserver -p 8080
 ```
+## Slide 
+https://drive.google.com/file/d/1P8UjB1KCIHwQF2650dVoLCQxR8_bVdcc/view
