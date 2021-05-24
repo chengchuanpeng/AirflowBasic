@@ -35,4 +35,4 @@ nohup airflow scheduler &
 airflow webserver -p 8080
 ```
 ## Slide 
-https://drive.google.com/file/d/1P8UjB1KCIHwQF2650dVoLCQxR8_bVdcc/view
+https://drive.google.com/file/d/1-WUPfKM-rZ5l1HHKwO4tiHYj-o9NF4Dv/view?usp=sharing
